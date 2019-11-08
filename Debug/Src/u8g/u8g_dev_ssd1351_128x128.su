@@ -1,0 +1,7 @@
+u8g_dev_ssd1351_128x128.c:426:6:u8g_ssd1351_to_stream	8	static
+u8g_dev_ssd1351_128x128.c:467:9:u8g_dev_ssd1351_128x128_332_fn	48	static
+u8g_dev_ssd1351_128x128.c:519:9:u8g_dev_ssd1351_128x128gh_332_fn	48	static
+u8g_dev_ssd1351_128x128.c:575:9:u8g_dev_ssd1351_128x128_idx_fn	40	static
+u8g_dev_ssd1351_128x128.c:627:6:u8g_ssd1351_hicolor_to_stream	12	static
+u8g_dev_ssd1351_128x128.c:652:9:u8g_dev_ssd1351_128x128_hicolor_fn	48	static
+u8g_dev_ssd1351_128x128.c:698:9:u8g_dev_ssd1351_128x128gh_hicolor_fn	48	static

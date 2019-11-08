@@ -1,0 +1,3 @@
+u8g_dev_a2_micro_printer.c:98:16:u8g_dev_expand4	0	static
+u8g_dev_a2_micro_printer.c:45:9:u8g_dev_a2_micro_printer_fn	40	static
+u8g_dev_a2_micro_printer.c:112:9:u8g_dev_a2_micro_printer_double_fn	48	static

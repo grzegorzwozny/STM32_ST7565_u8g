@@ -1,0 +1,3 @@
+u8g_dev_ssd1322_nhd31oled_gr.c:181:13:u8g_dev_ssd1322_2bit_prepare_row	16	static
+u8g_dev_ssd1322_nhd31oled_gr.c:215:9:u8g_dev_ssd1322_nhd31oled_gr_fn	40	static
+u8g_dev_ssd1322_nhd31oled_gr.c:272:9:u8g_dev_ssd1322_nhd31oled_2x_gr_fn	40	static

@@ -1,0 +1,5 @@
+u8g_dev_uc1610_dogxl160.c:79:16:u8g_dev_1to2	0	static
+u8g_dev_uc1610_dogxl160.c:99:9:u8g_dev_uc1610_dogxl160_bw_fn	32	static
+u8g_dev_uc1610_dogxl160.c:143:9:u8g_dev_uc1610_dogxl160_gr_fn	24	static
+u8g_dev_uc1610_dogxl160.c:175:9:u8g_dev_uc1610_dogxl160_2x_bw_fn	32	static
+u8g_dev_uc1610_dogxl160.c:236:9:u8g_dev_uc1610_dogxl160_2x_gr_fn	24	static

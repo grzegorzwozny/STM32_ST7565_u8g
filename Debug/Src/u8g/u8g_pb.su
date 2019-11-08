@@ -1,0 +1,7 @@
+u8g_pb.c:41:6:u8g_pb_Clear	0	static
+u8g_pb.c:90:9:u8g_pb_IsYIntersection	8	static
+u8g_pb.c:116:9:u8g_pb_IsXIntersection	0	static
+u8g_pb.c:135:9:u8g_pb_IsIntersection	16	static
+u8g_pb.c:154:6:u8g_pb_GetPageBox	0	static
+u8g_pb.c:164:9:u8g_pb_Is8PixelVisible	0	static
+u8g_pb.c:187:9:u8g_pb_WriteBuffer	4	static

@@ -1,0 +1,2 @@
+u8g_dev_flipdisc_2x7.c:66:9:u8g_dev_flipdisc_2x7_bw_fn	32	static
+u8g_dev_flipdisc_2x7.c:61:6:u8g_SetFlipDiscCallback	0	static

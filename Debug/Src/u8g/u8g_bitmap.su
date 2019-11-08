@@ -1,0 +1,6 @@
+u8g_bitmap.c:64:6:u8g_DrawHBitmapP	32	static
+u8g_bitmap.c:39:6:u8g_DrawHBitmap	0	static
+u8g_bitmap.c:75:6:u8g_DrawBitmapP	40	static
+u8g_bitmap.c:50:6:u8g_DrawBitmap	4	static
+u8g_bitmap.c:161:6:u8g_DrawXBMP	64	static
+u8g_bitmap.c:116:6:u8g_DrawXBM	4	static

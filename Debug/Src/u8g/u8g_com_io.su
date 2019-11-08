@@ -1,0 +1,7 @@
+u8g_com_io.c:320:9:u8g_Pin	0	static
+u8g_com_io.c:327:6:u8g_SetPinOutput	0	static
+u8g_com_io.c:331:6:u8g_SetPinInput	0	static
+u8g_com_io.c:335:6:u8g_SetPinLevel	0	static
+u8g_com_io.c:339:9:u8g_GetPinLevel	0	static
+u8g_com_io.c:366:6:u8g_SetPIOutput	0	static
+u8g_com_io.c:370:6:u8g_SetPILevel	0	static

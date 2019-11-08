@@ -1,0 +1,2 @@
+u8g_dev_ssd1306_128x32.c:212:9:u8g_dev_ssd1306_128x32_fn	24	static
+u8g_dev_ssd1306_128x32.c:244:9:u8g_dev_ssd1306_128x32_2x_fn	24	static

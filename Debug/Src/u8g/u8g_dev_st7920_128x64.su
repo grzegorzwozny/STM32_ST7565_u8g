@@ -1,0 +1,2 @@
+u8g_dev_st7920_128x64.c:64:9:u8g_dev_st7920_128x64_fn	32	static
+u8g_dev_st7920_128x64.c:112:9:u8g_dev_st7920_128x64_4x_fn	32	static

@@ -1,0 +1,5 @@
+u8g_dev_ssd1327_96x96_gr.c:147:13:u8g_dev_ssd1327_2bit_2x_prepare_page	24	static
+u8g_dev_ssd1327_96x96_gr.c:165:14:u8g_dev_ssd1327_2bit_write_4_pixel	16	static
+u8g_dev_ssd1327_96x96_gr.c:211:13:u8g_dev_ssd1327_2bit_2x_write_buffer	24	static
+u8g_dev_ssd1327_96x96_gr.c:259:9:u8g_dev_ssd1327_96x96_2x_gr_fn	24	static
+u8g_dev_ssd1327_96x96_gr.c:231:9:u8g_dev_ssd1327_96x96_gr_fn	32	static

@@ -1,0 +1,3 @@
+u8g_dev_ssd1325_nhd27oled_bw_new.c:94:13:u8g_dev_ssd1325_prepare_row	16	static
+u8g_dev_ssd1325_nhd27oled_bw_new.c:129:16:u8g_dev_ssd1325_nhd27oled_bw_fn	40	static
+u8g_dev_ssd1325_nhd27oled_bw_new.c:176:16:u8g_dev_ssd1325_nhd27oled_2x_bw_fn	40	static

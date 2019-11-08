@@ -1,0 +1,7 @@
+u8g_pb14v1.c:50:6:u8g_pb14v1_Clear	0	static
+u8g_pb14v1.c:62:6:u8g_pb14v1_Init	0	static
+u8g_pb14v1.c:69:6:u8g_pb14v1_set_pixel	12	static
+u8g_pb14v1.c:95:6:u8g_pb14v1_SetPixel	4	static
+u8g_pb14v1.c:106:6:u8g_pb14v1_Set8PixelStd	16	static
+u8g_pb14v1.c:127:6:u8g_pb14v1_Set8PixelOpt2	24	static
+u8g_pb14v1.c:152:9:u8g_dev_pb14v1_base_fn	16	static

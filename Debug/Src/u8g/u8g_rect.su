@@ -1,0 +1,9 @@
+u8g_rect.c:41:6:u8g_draw_hline	40	static
+u8g_rect.c:59:6:u8g_draw_vline	40	static
+u8g_rect.c:77:6:u8g_DrawHLine	32	static
+u8g_rect.c:84:6:u8g_DrawVLine	32	static
+u8g_rect.c:92:6:u8g_DrawFrame	32	static
+u8g_rect.c:110:6:u8g_draw_box	32	static
+u8g_rect.c:121:6:u8g_DrawBox	32	static
+u8g_rect.c:129:6:u8g_DrawRFrame	64	static
+u8g_rect.c:183:6:u8g_DrawRBox	56	static

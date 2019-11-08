@@ -1,0 +1,6 @@
+u8g_circle.c:208:13:u8g_draw_circle_section	32	static
+u8g_circle.c:295:13:u8g_draw_disc_section	32	static
+u8g_circle.c:239:6:u8g_draw_circle	48	static
+u8g_circle.c:274:6:u8g_DrawCircle	32	static
+u8g_circle.c:326:6:u8g_draw_disc	48	static
+u8g_circle.c:361:6:u8g_DrawDisc	32	static

@@ -1,0 +1,6 @@
+u8g_pb8h1.c:172:6:u8g_pb8h1_Init	0	static
+u8g_pb8h1.c:180:6:u8g_pb8h1_set_pixel	20	static
+u8g_pb8h1.c:221:6:u8g_pb8h1_SetPixel	4	static
+u8g_pb8h1.c:232:6:u8g_pb8h1_Set8PixelStd	16	static
+u8g_pb8h1.c:252:6:u8g_pb8h1_Set8PixelOpt2	24	static
+u8g_pb8h1.c:336:9:u8g_dev_pb8h1_base_fn	16	static

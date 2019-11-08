@@ -1,0 +1,4 @@
+u8g_dev_ht1632.c:252:9:u8g_dev_ht1632_24x16_fn	0	static
+u8g_dev_ht1632.c:237:6:ht1632_init	0	static
+u8g_dev_ht1632.c:241:6:ht1632_transfer_data	0	static
+u8g_dev_ht1632.c:245:6:ht1632_set_contrast	0	static

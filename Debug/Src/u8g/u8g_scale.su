@@ -1,0 +1,3 @@
+u8g_scale.c:66:9:u8g_dev_scale_2x2_fn	48	static
+u8g_scale.c:46:6:u8g_UndoScale	0	static
+u8g_scale.c:54:6:u8g_SetScale2x2	0	static

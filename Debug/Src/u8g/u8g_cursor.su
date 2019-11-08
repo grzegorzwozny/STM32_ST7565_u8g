@@ -1,0 +1,7 @@
+u8g_cursor.c:71:6:u8g_DrawCursor	24	static
+u8g_cursor.c:39:6:u8g_SetCursorFont	0	static
+u8g_cursor.c:44:6:u8g_SetCursorStyle	0	static
+u8g_cursor.c:49:6:u8g_SetCursorColor	0	static
+u8g_cursor.c:55:6:u8g_SetCursorPos	0	static
+u8g_cursor.c:61:6:u8g_EnableCursor	0	static
+u8g_cursor.c:66:6:u8g_DisableCursor	0	static
