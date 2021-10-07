@@ -1,5 +1,5 @@
 # STM32_ST7565_u8g
-Example project created in TrueStudio and CubeMX show how to use U8glib for ARM. In this project used STM32F103C8T6 (BluePill) and ST7565 LCD.
+Example project created in TrueStudio and CubeMX showing how to use U8glib with STM32 microcontroller. In this project used STM32F103C8T6 (BluePill) and Display COG (Chip-On-Glass) with ST7565 Controller.
 
 The most significants files in this project are u8g_arm.c and u8g_arm.h where definited wrapper for LCD display.
 
